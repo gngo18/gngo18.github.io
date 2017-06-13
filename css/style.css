@@ -138,7 +138,8 @@ Responsive media queries
 }
 .about-text {
 	color: maroon;
-    
+    background-color: RGBA(222, 23, 23, 0.150);
+    border: 2px solid black;
 }
 .abt-list li{
 	padding: 5px 0px;
@@ -324,7 +325,7 @@ footer {
 .grid-item--width2 { width: 400px; }
 
 /*div box with descriptions of projects*/
-.Storefront{
+#Storefront{
     color: black;
 }
 .Flappy{
@@ -338,6 +339,7 @@ footer {
 }
 .Works{
     background-color: RGBA(179, 170, 178, 0.75);
+    border: 2px solid black;
 }
 
 
