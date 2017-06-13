@@ -325,7 +325,7 @@ footer {
 .grid-item--width2 { width: 400px; }
 
 /*div box with descriptions of projects*/
-#Storefront{
+.Storefront{
     color: black;
 }
 .Flappy{
