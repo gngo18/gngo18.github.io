@@ -137,8 +137,9 @@ Responsive media queries
 	border-right: 5px solid #BE2525;
 	font-size: 24px;
 }
-.about-text p{
+.about-text {
 	color: maroon;
+    
 }
 .abt-list li{
 	padding: 5px 0px;
@@ -147,7 +148,9 @@ Responsive media queries
     color: black;
 }
 #portfolio{
-	background-color: #f0f1e9;
+	background: url('../img/Sweden.jpg') no-repeat fixed;
+    background-size: cover;
+    position: relative;
 }
 .grid-padding{
 	padding: 0 8px;
@@ -320,6 +323,24 @@ footer {
 }
 .grid-item { width: 200px; }
 .grid-item--width2 { width: 400px; }
+
+/*div box with descriptions of projects*/
+.Storefront{
+    color: black;
+}
+.Flappy{
+    color: black;
+}
+.Creature{
+    color: black;
+}
+.Game{
+    color: black;
+}
+.Works{
+    background-color: #B3AAB2;
+}
+
 
 /***********************************
 ************************************
