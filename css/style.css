@@ -138,12 +138,13 @@ Responsive media queries
 	font-size: 24px;
 }
 .about-text p{
-	color: #444;
+	color: maroon;
 }
 .abt-list li{
 	padding: 5px 0px;
 	font-size: 18px;
 	font-weight: 400;
+    color: black;
 }
 #portfolio{
 	background-color: #f0f1e9;

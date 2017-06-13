@@ -1,0 +1,40 @@
+.Home{
+	border: 3px solid black;
+	margin-left: 50px;
+	margin-right:1300px;
+	font-size: 24px;
+	background-color: turquoise;
+}
+
+.M{
+	margin-left:900px;
+}
+
+.Products{
+	margin-left: 25px;
+}
+
+.ContactUs{
+	margin-left: 25px;
+}
+
+.HIT{
+	margin-left: 25px;
+}
+.WeeklySpecial{
+	border: solid black;
+	background-color: yellow;
+}
+.DoD{
+	margin-left:1200px;
+	background-color:red;
+	border: solid black;
+}
+.picFiller{
+	margin-left: 900px;
+}
+.PV{
+	border: 3px solid black;
+	background-color: #E68BEC;
+	margin-right: 00px;
+}
