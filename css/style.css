@@ -138,14 +138,14 @@ Responsive media queries
 }
 .about-text {
 	color: maroon;
-    background-color: RGBA(222, 23, 23, 0.150);
+    background-color: RGBA(178, 178, 178, 0.350);
     border: 2px solid black;
 }
 .abt-list li{
 	padding: 5px 0px;
 	font-size: 18px;
 	font-weight: 400;
-    color: black;
+    color: blue;
 }
 #portfolio{
 	background: url('../img/Sweden.jpg') no-repeat;
