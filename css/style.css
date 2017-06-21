@@ -140,6 +140,7 @@ Responsive media queries
 	color: maroon;
     background-color: RGBA(178, 178, 178, 0.350);
     border: 2px solid black;
+    padding: 10px 10px 10px 10px;
 }
 .abt-list li{
 	padding: 5px 0px;
@@ -324,9 +325,30 @@ footer {
 .grid-item { width: 200px; }
 .grid-item--width2 { width: 400px; }
 
+.aboutmeTitle{
+    color: red;
+    margin-left: 75px;
+}
+
+#travel{
+    color: red;
+}
+
+.tennis{
+    color: red;
+}
+
+.golf{
+    color:red;
+}
+
+.music{
+    color:red;
+}
 /*div box with descriptions of projects*/
 .Storefront{
     color: black;
+    padding: 10px 10px 10px 10px;
 }
 .Flappy{
     color: black;
@@ -336,6 +358,7 @@ footer {
 }
 .Game{
     color: black;
+    padding: 0px 10px 20px 10px;
 }
 .Works{
     background-color: RGBA(179, 170, 178, 0.75);

@@ -1,3 +1,6 @@
+.stache{
+	align-content: center;
+}
 .Home{
 	border: 3px solid black;
 	margin-left: 50px;
@@ -7,7 +10,7 @@
 }
 
 .M{
-	margin-left:900px;
+	margin-left:850px;
 }
 
 .Products{
@@ -25,13 +28,16 @@
 	border: solid black;
 	background-color: yellow;
 }
+#pic{
+	margin-top:50px;
+}
 .DoD{
-	margin-left:1200px;
 	background-color:red;
 	border: solid black;
+	margin-left: 1300px;
 }
 .picFiller{
-	margin-left: 900px;
+	margin-left: 850px;
 }
 .PV{
 	border: 3px solid black;
