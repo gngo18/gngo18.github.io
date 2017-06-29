@@ -334,9 +334,13 @@ footer {
     color: red;
 }
 
+.travel{
+
+}
+
 .tennis{
     color: red;
-}
+   }
 
 .golf{
     color:red;
@@ -348,23 +352,53 @@ footer {
 /*div box with descriptions of projects*/
 .Storefront{
     color: black;
-    padding: 10px 10px 10px 10px;
+    padding: 0px 0px 10px 15px;
+}
+.StorefrontDesc{
+    padding: 30px 40px 0px 0px;
+    color:black;
 }
 .Flappy{
+    color: black;
+}
+.FlappyDesc{
+    padding: 10px 40px 0px 0px;
     color: black;
 }
 .Creature{
     color: black;
 }
+.CreatureDesc{
+    padding: 20px 50px 0px 0px;
+    color:black;
+}
 .Game{
     color: black;
-    padding: 0px 10px 20px 10px;
+    padding: 0px 0px 0px 15px;
+}
+.GameDesc{
+    padding: 10px 40px 0px 0px;
+    color: black;
 }
 .Works{
     background-color: RGBA(179, 170, 178, 0.75);
     border: 2px solid black;
 }
+.jsLib{
+    padding: 0px 0px 20px 15px;
+}
+.jsLibDesc{
+    padding: 10px 40px 0px 0px;
+    color: black;
+}
 
+.friendlist{
+    padding: 0px 0px 20px 15px;
+}
+.friendlistDesc{
+    padding: 10px 40px 0px 0px;
+    color: black;
+}
 
 /***********************************
 ************************************
