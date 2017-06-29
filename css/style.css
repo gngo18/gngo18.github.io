@@ -162,6 +162,15 @@ Responsive media queries
 .padding-right-zero{
 	padding-right: 0px !important;
 }
+.marketing{
+    color:maroon;
+}
+.titleMarketing{
+    color:white;
+}
+.WAF{
+    color:white;
+}
 #myGrid{
 	margin-top: 50px;
 }
