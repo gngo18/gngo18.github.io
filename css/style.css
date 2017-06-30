@@ -344,19 +344,22 @@ footer {
 }
 
 .travel{
-
+    position: relative;
 }
 
 .tennis{
     color: red;
+    position: relative;
    }
 
 .golf{
     color:red;
+    position: relative;
 }
 
 .music{
     color:red;
+    position: relative;
 }
 /*div box with descriptions of projects*/
 .Storefront{
@@ -418,6 +421,9 @@ Responsive media queries
 	.title-text{
 	margin-bottom: 15px;
 	}
+    .travel{
+
+    }
 }
 @media (min-width: 100px) and (max-width: 550px) {
 	
